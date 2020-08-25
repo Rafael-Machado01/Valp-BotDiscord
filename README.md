@@ -1,2 +1,6 @@
 # Valp-BotDiscord
-Um bot pra discord simples,que aprendi a fazer em 2 meses.
+Um bot com: 
+Moderação
+Diversão
+Animes
+em breve Musica.
